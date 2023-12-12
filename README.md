@@ -8,7 +8,7 @@
 <p>
 <ul>- 👋 Hi, I’m @CrisCo116</ul>
 <ul>- 👀 I’m interested in learning all I can about coding</ul>
-<ul>- 🌱 I’m currently working on homework assignment</ul>
+<ul>- 🌱 I’m currently working on homework assignments</ul>
 <ul>- 💞️ I’m looking to collaborate on ...</ul>
 <ul>- 📫 How to reach me 116crisco01@gmail.com</ul>
 </p>
